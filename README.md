@@ -1,8 +1,5 @@
 **ESP32-ESP8266-Real-Time-Sensor-Data-Plotting**
 
----
-
-### **Repository Description**:  
 A project that builds an asynchronous web server using ESP32 or ESP8266 to display real-time sensor data (temperature, humidity, pressure) on interactive charts. The web interface uses the Highcharts library to graph data collected from a BME280 sensor, with easy modification for other sensors.
 
 ---
